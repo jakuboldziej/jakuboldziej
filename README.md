@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakuboldziej
 - 👀 I’m interested in Python - Django, Sockets, Requests and more!
-- 🌱 I’m currently learning Javascript - Ajax
+- 🌱 I’m currently learning Javascript - nodejs
 - 💞️ I’m looking to collaborate on Python projects that require hard problem solving tasks
 - 📫 How to reach me: jakub.oldziej@wp.pl
 
