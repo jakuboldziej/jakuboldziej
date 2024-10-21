@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jakuboldziej
 - 👀 I’m interested in JS - NextJS, Python - Django
-- 🌱 I’m currently working on NextJS/React project
+- 🌱 I’m currently working on NextJS project
 - 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 How to reach me: jakub.oldziej@wp.pl
+- 🐱‍👤 You can check out my website: https://oldziej.pl
