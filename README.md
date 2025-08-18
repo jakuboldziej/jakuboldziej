@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jakuboldziej
+- 👋 Hi, I’m Jakub
 - 👀 I’m interested in Fullstack development
 - 🌱 I’m currently working as a Software Developer
 - 💞️ I’m open to freelance job offers
