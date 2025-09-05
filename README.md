@@ -3,4 +3,4 @@
 - 🌱 I’m currently working as a Software Developer
 - 💞️ I’m open to freelance job offers
 - 📫 How to reach me: kontakt@oldziej.pl
-- 🐱‍👤 You can check out my website: https://oldziej.pl
+- ♠️ You can check out my website: https://oldziej.pl
